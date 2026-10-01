@@ -1,7 +1,7 @@
 name: Deploy to EC2
 
 on:
-  workflow_dispatch:  # Manual only
+  workflow_dispatch:  # Manual only please
 
 permissions:
   id-token: write
